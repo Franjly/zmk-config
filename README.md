@@ -8,7 +8,7 @@
  
 ## Sofle
 
-**bootloader mode**:  press twice the reset button 
-**pair both halves**: press the reset button once on both halves at the same time
+ - **bootloader mode**:  press twice the reset button
+ - **pair both halves**: press the reset button once on both halves at the same time
 
 ![Keymap](assets/keymap-drawer/sofle.svg)
