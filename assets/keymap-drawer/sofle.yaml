@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: sofle}
 layers:
-  BASE: [ESC, '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', BSPC, TAB, Q, W, E, R, T, Y, U, I, O, P, \, CAPS, A, S, D, F, G, H, J, K, L, ;, '''', LSHFT, Z, X,
-    C, V, B, MUTE, '', N, M, ',', ., /, RSHFT, LGUI, LALT, LCTRL, BOT, RET, SPACE, TOP, RCTRL, RALT, RGUI]
+  BASE: [Esc, '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', ⌫, ↹, Q, W, E, R, T, Y, U, I, O, P, \, Caps Lock, A, S, D, F, G, H, J, K, L, ;, '''', Shift, Z, X,
+    C, V, B, MUTE, '', N, M, ',', ., /, Shift, Gui, Alt, Ctrl, BOT, ⏎, ␣, TOP, Ctrl, Alt, Gui]
   BOT:
   - '`'
   - F1
@@ -65,39 +65,39 @@ layers:
   - {t: ▽, type: trans}
   TOP:
   - BT CLR
-  - {t: BT, h: '0'}
-  - {t: BT, h: '1'}
-  - {t: BT, h: '2'}
-  - {t: BT, h: '3'}
-  - {t: BT, h: '4'}
+  - BT 1
+  - BT 2
+  - BT 3
+  - BT 4
+  - BT 5
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - BSPC
+  - ⌫
   - {t: ▽, type: trans}
-  - INS
-  - PSCRN
+  - Insert
+  - Print Scrn
   - CMENU
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - PG UP
+  - Page Up
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - DEL
+  - ⌦
   - {t: ▽, type: trans}
-  - LALT
-  - LCTRL
-  - LSHFT
+  - Alt
+  - Ctrl
+  - Shift
   - {t: ▽, type: trans}
   - CLCK
-  - LEFT
-  - DOWN
-  - UP
-  - RIGHT
+  - ←
+  - ↓
+  - ↑
+  - →
   - {t: ▽, type: trans}
   - '"'
   - {t: ▽, type: trans}
@@ -108,7 +108,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - PG DN
+  - Page Down
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -126,11 +126,11 @@ layers:
   - {t: ▽, type: trans}
   SETTINGS:
   - BT CLR
-  - {t: BT, h: '0'}
-  - {t: BT, h: '1'}
-  - {t: BT, h: '2'}
-  - {t: BT, h: '3'}
-  - {t: BT, h: '4'}
+  - BT 1
+  - BT 2
+  - BT 3
+  - BT 4
+  - BT 5
   - ''
   - ''
   - ''
