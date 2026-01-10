@@ -21,3 +21,8 @@
  - **pair both halves**: press the reset button once on both halves at the same time
 
 ![Keymap](assets/keymap-drawer/sofle.svg)
+
+
+## Toucan
+
+![Keymap](assets/keymap-drawer/toucan.svg)
