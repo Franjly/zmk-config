@@ -44,6 +44,6 @@ manifest:
       remote: carrefinho
       repo-path: prospector-zmk-module
       revision: main
-      path: modules/prospector-zmk-module
+      path: modules/prospector-zmk-module-carrefinho
   self:
     path: config
