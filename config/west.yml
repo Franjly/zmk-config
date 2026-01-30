@@ -32,6 +32,7 @@ manifest:
     # Prospector Scanner
     - name: prospector-scanner-zmk-module
       remote: prospector
+      repo-path: prospector-zmk-module
       revision: v2.0.0
       path: modules/prospector-zmk-module
     # nice-view-gem
@@ -39,8 +40,10 @@ manifest:
       remote: m165437
       revision: main
     # Prospector - Carrefinho
-    - name: prospector-carrefinhozmk-module
+    - name: prospector-carrefinho'zmk-module
       remote: carrefinho
+      repo-path: prospector-zmk-module
       revision: main
+      path: modules/prospector-zmk-module
   self:
     path: config
