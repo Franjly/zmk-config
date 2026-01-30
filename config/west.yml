@@ -30,7 +30,7 @@ manifest:
       remote: caksoylar
       revision: main
     # Prospector Scanner
-    - name: prospector-zmk-module
+    - name: prospector-scanner-zmk-module
       remote: prospector
       revision: v2.0.0
       path: modules/prospector-zmk-module
@@ -39,7 +39,7 @@ manifest:
       remote: m165437
       revision: main
     # Prospector - Carrefinho
-    - name: prospector-zmk-module
+    - name: prospector-carrefinhozmk-module
       remote: carrefinho
       revision: main
   self:
