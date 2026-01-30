@@ -38,7 +38,7 @@ manifest:
     # nice-view-gem
     - name: nice-view-gem
       remote: m165437
-      revision: v0.3
+      revision: v0.3.0
     # Prospector - Carrefinho
     - name: prospector-carrefinho'zmk-module
       remote: carrefinho
