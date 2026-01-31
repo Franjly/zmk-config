@@ -6,7 +6,7 @@ include:
     shield: sofle_right nice_view_adapter nice_view_gem
     # For use as a dongle with the Prospector adapter
   - board: seeeduino_xiao_ble
-    shield: sofle_dongle rgbled_adapter prospector_adapter
+    shield: sofle_dongle rgbled_adapter nice_view_adapter prospector_adapter
     cmake-args: -DCONFIG_ZMK_STUDIO=n
 
   # Toucan
