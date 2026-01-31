@@ -34,7 +34,7 @@ manifest:
       remote: prospector
       repo-path: prospector-zmk-module
       revision: v2.0.0
-      path: modules/prospector-scanner-zmk-module
+      path: modules/prospector-zmk-module-scanner
     # nice-view-gem
     - name: nice-view-gem
       remote: m165437
