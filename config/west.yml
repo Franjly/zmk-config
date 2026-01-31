@@ -10,8 +10,8 @@ manifest:
     - name: caksoylar
       url-base: https://github.com/caksoylar
     # Prospector Scanner
-    - name: prospector
-      url-base: https://github.com/t-ogura
+    # - name: prospector
+    #   url-base: https://github.com/t-ogura
     # nice-view-gem
     - name: m165437
       url-base: https://github.com/M165437
@@ -30,11 +30,11 @@ manifest:
       remote: caksoylar
       revision: main
     # Prospector Scanner
-    - name: prospector-scanner-zmk-module
-      remote: prospector
-      repo-path: prospector-zmk-module
-      revision: v2.0.0
-      path: modules/prospector-zmk-module-scanner
+    # - name: prospector-scanner-zmk-module
+    #   remote: prospector
+    #   repo-path: prospector-zmk-module
+    #   revision: v2.0.0
+    #   path: modules/prospector-zmk-module-scanner
     # nice-view-gem
     - name: nice-view-gem
       remote: m165437
