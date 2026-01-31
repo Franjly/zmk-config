@@ -20,6 +20,8 @@ include:
   # Prospector Scanner
   - board: seeeduino_xiao_ble
     shield: prospector_scanner
+    extra-args:
+      - -DZMK_EXTRA_MODULES=${ZMK_CONFIG}/modules
 
   # Settings reset
   - board: nice_nano_v2
