@@ -40,7 +40,7 @@ manifest:
       remote: m165437
       revision: v0.3.0
     # Prospector - Carrefinho
-    - name: prospector-carrefinho'zmk-module
+    - name: prospector-carrefinho-zmk-module
       remote: carrefinho
       repo-path: prospector-zmk-module
       revision: main
