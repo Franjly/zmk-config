@@ -1,4 +1,4 @@
-# zmk-config
+# DEPRECATED zmk-config
 <table>
   <tr>
     <td>ZMK</td>
